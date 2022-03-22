@@ -1,0 +1,101 @@
+网站,Title,国家,城市,IP地址,port,Server,协议
+https://sentinelqa.gechub.ford.com,Axway | Sentinel,United States,,19.12.110.19,443,,https
+dev.api.mps.ford.com,,United States,Tappahannock,13.82.107.52,80,,http
+api-dev.ford.com,Error 404 (Not Found)!!1,United States,Kansas City,34.117.188.36,80,,http
+https://healthwatch02.pp01.useast.cf.ford.com,Grafana,United States,Tappahannock,40.76.147.73,443,,https
+fqaapimttm.cv.ford.com,,United States,Tappahannock,52.168.172.52,80,,http
+https://dev-er-vht.taas.ford.com,503 Service Temporarily Unavailable,United States,Boardman,54.201.46.41,443,awselb/2.0,https
+dev-er-vht.taas.ford.com,301 Moved Permanently,United States,Boardman,54.201.46.41,80,awselb/2.0,http
+notification-broker.taas.ford.com,,United States,Boardman,54.70.92.62,80,,http
+fqaapiupstm.cv.ford.com,,United States,Tappahannock,40.71.227.198,80,,http
+stg-notification-broker.taas.ford.com,,United States,Boardman,35.80.199.56,80,,http
+me.ford.com,301 Moved Permanently,Hong Kong,Central,20.187.153.13,80,Microsoft-Azure-Application-Gateway/v2,http
+ssa.ford.com,301 Moved Permanently,Hong Kong,Central,20.187.153.13,80,Microsoft-Azure-Application-Gateway/v2,http
+gteservices.ford.com,404 Not Found,Hong Kong,Central,20.187.153.13,80,Microsoft-Azure-Application-Gateway/v2,http
+www.emergencyassistance.ford.com,,Japan,Tokyo,23.10.7.111,80,AkamaiGHost,http
+fastapp.ford.com,,Japan,Tokyo,23.10.7.111,80,AkamaiGHost,http
+www.showroom.ford.com,,United States,,19.12.113.37,80,,http
+https://fleet.ford.com,,United States,,19.12.113.37,443,,https
+www.axz.ford.com,,United States,,19.12.113.31,80,BigIP,http
+https://wwwqa.transformation.agenda.ford.com,,United States,,136.2.49.31,443,,https
+wwwqa.axz.ford.com,,United States,,19.12.97.31,80,BigIP,http
+wwwdev.axz.ford.com,,United States,,19.12.97.31,80,BigIP,http
+www.myplan.ford.com,,United States,,19.12.113.31,80,BigIP,http
+wwwqa.myplan.ford.com,,United States,,19.12.113.31,80,BigIP,http
+https://webqa.agenda.ford.com,AgendaFord,United States,,19.12.112.7,443,nginx,https
+wwwqa.transformation.agenda.ford.com,,United States,,19.12.96.7,80,BigIP,http
+wwwdev.myplan.ford.com,,United States,,19.12.113.31,80,BigIP,http
+https://wwwqa.myplan.ford.com,Ford Motor Company AXZ-Plans,United States,,19.12.96.7,443,,https
+https://www.axz.ford.com,Ford Motor Company AXZ-Plans,United States,,19.12.96.7,443,,https
+https://webqa.gsdb2.ford.com,404 Not Found,United States,,19.12.96.7,443,,https
+https://www.myplan.ford.com,Ford Motor Company AXZ-Plans,United States,,19.12.97.31,443,,https
+webqa.agenda.ford.com,,United States,,19.12.112.7,80,BigIP,http
+https://transformation.agenda.ford.com,,United States,,136.2.49.31,443,,https
+https://api.transformation.ford.com,,United States,,19.12.96.7,443,,https
+https://web.transformationapi.ford.com,,United States,,19.12.113.31,443,,https
+https://www.collision.ford.com,Collision Repair | Ford Certified Collision Network,United States,,50.56.48.180,443,Apache/2.2.15 (CentOS),https
+webqa.gsdb2.ford.com,,United States,,19.12.97.31,80,BigIP,http
+web.gsdb2.ford.com,,United States,,19.12.97.31,80,BigIP,http
+www.collision.ford.com,,United States,,50.56.48.180,80,,http
+https://wwwqa.lean.ford.com,Working...,United States,,19.12.96.7,443,,https
+https://collision.ford.com,Collision Repair | Ford Certified Collision Network,United States,,50.56.48.180,443,Apache/2.2.15 (CentOS),https
+https://www-fordinstallersupport.app.ford.com,Browser Support,United States,,19.12.112.133,443,Microsoft-IIS/10.0,https
+web.transformationapi.ford.com,,United States,,19.12.97.31,80,BigIP,http
+transformation.agenda.ford.com,,United States,,19.12.113.31,80,BigIP,http
+api.transformation.ford.com,,United States,,19.12.113.31,80,BigIP,http
+www-fordinstallersupport.app.ford.com,,United States,,19.12.112.133,80,BigIP,http
+https://wwwqa.covid19suppliersurvey.ford.com,Ford - COVID-19 Supplier Survey,United States,,19.12.97.31,443,nginx,https
+https://web.gsdb2.ford.com,404 Not Found,United States,,19.12.97.31,443,,https
+https://wwwqa.agenda.ford.com,,United States,,19.12.96.7,443,,https
+webqa.fsp.ford.com,,United States,,19.12.97.31,80,BigIP,http
+www.covid19suppliersurvey.ford.com,,United States,,19.12.97.31,80,BigIP,http
+wwwqa.covid19suppliersurvey.ford.com,,United States,,19.12.97.31,80,BigIP,http
+wwwqa.lean.ford.com,,United States,,19.12.97.31,80,BigIP,http
+https://web.agenda.ford.com,AgendaFord,United States,,19.12.96.7,443,nginx,https
+fleet.ford.com,,United States,,19.12.113.37,80,,http
+collision.ford.com,,United States,,50.56.48.180,80,,http
+https://wwwqa.credit.ford.com,,United States,,19.12.96.7,443,,https
+https://wwwqatest.anaqua.ford.com,,United States,,19.12.110.67,443,,https
+www.credit.ford.com,,United States,,19.12.96.7,80,BigIP,http
+wwwqa.credit.ford.com,,United States,,19.12.96.7,80,BigIP,http
+https://www.sharedanalytics.ford.com,,United States,,19.12.97.135,443,,https
+wwwqatest.anaqua.ford.com,,United States,,19.12.110.67,80,BigIP,http
+https://b2dgwqa.ford.com,,United States,,19.12.112.57,443,,https
+https://apigtw.ford.com,,United States,,19.12.112.176,443,,https
+https://www-bpm.app.ford.com,,United States,,19.12.112.26,443,,https
+https://wwwqa.redus4lb.ford.com,,United States,,19.12.124.48,443,,https
+https://apigtwdev.ford.com,,United States,,19.12.126.167,443,,https
+https://avatars.github.ford.com,302 Found,United States,,19.12.96.28,443,GitHub.com,https
+https://gist.github.ford.com,302 Found,United States,,19.12.96.28,443,GitHub.com,https
+https://www.gems.ford.com,"	GEMS 10.3.1",United States,,12.183.16.39,443,Microsoft-IIS/8.5,https
+https://wwwqa-geos.app.ford.com,Login,United States,,19.12.110.54,443,Microsoft-IIS/10.0,https
+https://wwwmig.webfocus8.ford.com,Apache Tomcat/9.0.39,United States,,19.12.113.13,443,,https
+https://www-iciuina.app.ford.com,Not Found,United States,,19.12.96.162,443,Microsoft-HTTPAPI/2.0,https
+https://wwwqa.blueprint.ford.com,Blueprint,United States,,19.12.126.97,443,Blueprint,https
+https://www.globaluptime.ford.com,This e-commerce web site is under construction,United States,,19.12.113.151,443,,https
+https://www.iciuina.ford.com,IIS Windows Server,United States,,19.12.96.162,443,Microsoft-IIS/10.0,https
+https://assets.github.ford.com,,United States,,19.12.96.28,443,GitHub.com,https
+https://codeload.github.ford.com,,United States,,19.12.96.28,443,,https
+https://gist-raw.github.ford.com,,United States,,19.12.96.28,443,GitHub.com,https
+https://pages.github.ford.com,301 Moved Permanently,United States,,19.12.112.28,443,GitHub.com,https
+https://raw.github.ford.com,,United States,,19.12.96.28,443,,https
+https://www.webfocus8.ford.com,Apache Tomcat/9.0.39,United States,,19.12.97.13,443,,https
+https://www-webfocus8ldap.app.ford.com,Apache Tomcat/9.0.39,United States,,19.12.97.68,443,,https
+https://wwwqa-checkmarx.app.ford.com,IIS Windows Server,United States,,19.12.126.143,443,Microsoft-IIS/10.0,https
+https://mgwqa.ford.com,,United States,,19.12.112.60,443,,https
+https://wwwqa-anaqua.app.ford.com,,United States,,19.12.110.67,443,,https
+https://wwwqatest-anaqua.app.ford.com,,United States,,19.12.111.126,443,,https
+https://www.magicinfo.ford.com:7002,,Netherlands,Amsterdam,137.117.249.150,7002,MagicInfo Premium Server,https
+https://wwwqa.anaqua.ford.com,,United States,,19.12.111.126,443,,https
+https://b2dgw.ford.com,,United States,,19.12.96.172,443,,https
+https://www-tlkb.app.ford.com,Login,United States,,19.12.96.79,443,Microsoft-IIS/10.0,https
+https://wwwqa.geos.ford.com,Login,United States,,19.12.126.54,443,Microsoft-IIS/10.0,https
+https://wwwqa.planovalo.ar.ford.com,Object moved,United States,,19.12.110.145,443,Microsoft-IIS/10.0,https
+https://stage-er-vht.taas.ford.com,,United States,Boardman,52.25.124.24,443,,https
+https://www-aathresi.app.ford.com,Not Found,United States,,19.12.97.50,443,Microsoft-HTTPAPI/2.0,https
+https://wwwdev.redus3lb.ford.com,,United States,,19.12.124.7,443,,https
+https://prod.ocpp.ford.com,EV Wallbox,United States,Washington,52.224.92.37,443,nginx,https
+https://www-ngpservicesuslb.app.ford.com,,United States,,19.12.97.33,443,,https
+https://wwwqa-anfexi.app.ford.com,Default Dummy Test Page for IIS Setup,United States,,19.12.124.8,443,Microsoft-IIS/10.0,https
+https://wwwdev-redus3lb.app.ford.com,,United States,,19.12.124.7,443,,https
+https://www.tririga.ford.com,Redirect To OP,United States,,19.12.97.108,443,Microsoft-IIS/10.0,https
